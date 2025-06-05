@@ -3014,6 +3014,10 @@ public enum Components {
                     case o1_hyphen_preview_hyphen_2024_hyphen_09_hyphen_12 = "o1-preview-2024-09-12"
                     case o1_hyphen_mini = "o1-mini"
                     case o1_hyphen_mini_hyphen_2024_hyphen_09_hyphen_12 = "o1-mini-2024-09-12"
+                    case o3 = "o3"
+                    case o3_hyphen_mini = "o3-mini"
+                    case o4_hyphen_mini = "o4-mini"
+                    
                     case gpt_hyphen_4o = "gpt-4o"
                     case gpt_hyphen_4o_hyphen_2024_hyphen_11_hyphen_20 = "gpt-4o-2024-11-20"
                     case gpt_hyphen_4o_hyphen_2024_hyphen_08_hyphen_06 = "gpt-4o-2024-08-06"
@@ -3032,6 +3036,11 @@ public enum Components {
                     case gpt_hyphen_4o_hyphen_mini = "gpt-4o-mini"
                     case gpt_hyphen_4o_hyphen_mini_hyphen_2024_hyphen_07_hyphen_18 =
                         "gpt-4o-mini-2024-07-18"
+
+                    case gpt_hyphen_4_period_1 = "gpt-4.1"
+                    case gpt_hyphen_4_period_1_hyphen_mini = "gpt-4.1-mini"
+                    case gpt_hyphen_4_period_1_hyphen_nano = "gpt-4.1-nano"
+                    
                     case gpt_hyphen_4_hyphen_turbo = "gpt-4-turbo"
                     case gpt_hyphen_4_hyphen_turbo_hyphen_2024_hyphen_04_hyphen_09 =
                         "gpt-4-turbo-2024-04-09"
