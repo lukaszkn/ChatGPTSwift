@@ -3040,6 +3040,10 @@ public enum Components {
                     case gpt_hyphen_4_period_1 = "gpt-4.1"
                     case gpt_hyphen_4_period_1_hyphen_mini = "gpt-4.1-mini"
                     case gpt_hyphen_4_period_1_hyphen_nano = "gpt-4.1-nano"
+
+                    case gpt_hyphen_5 = "gpt-5",
+                    case gpt_hyphen_5_hyphen_mini = "gpt-5-mini",
+                    case gpt_hyphen_5_hyphen_nano = "gpt-5-nano",
                     
                     case gpt_hyphen_4_hyphen_turbo = "gpt-4-turbo"
                     case gpt_hyphen_4_hyphen_turbo_hyphen_2024_hyphen_04_hyphen_09 =
